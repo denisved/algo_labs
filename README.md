@@ -1,40 +1,23 @@
-# LAB №1. QuickSort
+# LAB №2. HashTable
 <h2>Requirements:</h2>
-<h3>Результат має виводити:</h3>
 
-●	назва алгоритму
+●	Insert method
 
-●	час роботи
+●	Search method
 
-●	кількість операцій порівняння, які були виконані в процесі роботи алгоритму
+●	Delete method
 
-●	кількість операцій обміну, які були виконані в процесі роботи алгоритму
-
-●	результати сортування
-
-●	код має вміти сортувати як за зростанням. так і за спаданням
-
-<h3>Ваш код має бути покритий тестами, які перевіряють:</h3>
-
-●	сортування вхідного масиву
-
-●	сортування за зростанням посортованого масиву  за зростанням
-
-●	сортування за зростанням посортованого масиву  за спаданням
-
-●	сортування за спаданням посортованого масиву  за зростанням
-
-●	сортування за спаданням посортованого масиву  за спаданням
+●	The code should be covered by unittests that test the methods of your data structure
 
 <h2>How to run</h2>
 
-_To download repository:_ `git clone https://github.com/denysvedernikov02/algo_labs.git -b lab1`
+_To download repository:_ `git clone https://github.com/denysvedernikov02/algo_labs.git -b lab2`
 
-_To run tests:_ `py -m unittest quicksort_test.Test`
+_To run tests:_ `py -m unittest test.Test`
 
 **To run lab:**
 
 ●	`cd algo_labs`
 
-●	`py main.py`
+●	`py hash_table.py`
 
