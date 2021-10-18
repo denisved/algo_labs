@@ -1,40 +1,16 @@
-# LAB №1. QuickSort
-<h2>Requirements:</h2>
-<h3>Результат має виводити:</h3>
+# LAB №3. Calendar
+<h2>Task: https://docs.google.com/document/d/1xsZykbXRyP3HcgAnzksP9RJ0Mf5r5Jr4 </h2>
 
-●	назва алгоритму
-
-●	час роботи
-
-●	кількість операцій порівняння, які були виконані в процесі роботи алгоритму
-
-●	кількість операцій обміну, які були виконані в процесі роботи алгоритму
-
-●	результати сортування
-
-●	код має вміти сортувати як за зростанням. так і за спаданням
-
-<h3>Ваш код має бути покритий тестами, які перевіряють:</h3>
-
-●	сортування вхідного масиву
-
-●	сортування за зростанням посортованого масиву  за зростанням
-
-●	сортування за зростанням посортованого масиву  за спаданням
-
-●	сортування за спаданням посортованого масиву  за зростанням
-
-●	сортування за спаданням посортованого масиву  за спаданням
 
 <h2>How to run</h2>
 
-_To download repository:_ `git clone https://github.com/denysvedernikov02/algo_labs.git -b lab1`
+_To download repository:_ `git clone https://github.com/denysvedernikov02/algo_labs.git -b lab3`
 
-_To run tests:_ `py -m unittest quicksort_test.Test`
+_To run tests:_ `py -m unittest test.Test`
 
 **To run lab:**
 
 ●	`cd algo_labs`
 
-●	`py main.py`
+●	`py calendar.py`
 
