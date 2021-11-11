@@ -1,10 +1,7 @@
-# LAB №3. Calendar
-<h2>Task: https://docs.google.com/document/d/1xsZykbXRyP3HcgAnzksP9RJ0Mf5r5Jr4 </h2>
-
-
+# LAB №4. BFS
 <h2>How to run</h2>
 
-_To download repository:_ `git clone https://github.com/denysvedernikov02/algo_labs.git -b lab3`
+_To download repository:_ `git clone https://github.com/denysvedernikov02/algo_labs.git -b lab4`
 
 _To run tests:_ `py -m unittest test.Test`
 
@@ -12,5 +9,5 @@ _To run tests:_ `py -m unittest test.Test`
 
 ●	`cd algo_labs`
 
-●	`py calendar.py`
+●	`py BFS.py`
 
