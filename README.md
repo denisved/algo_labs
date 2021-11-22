@@ -1,4 +1,4 @@
-# LAB №4. Tarjan's Algorithm to find SCC (Strongly Connected Components) in oriented graph
+# LAB №5. Tarjan's Algorithm to find SCC (Strongly Connected Components) in oriented graph
 <h2>How to run</h2>
 
 _To download repository:_ `git clone https://github.com/denysvedernikov02/algo_labs.git -b lab5`
