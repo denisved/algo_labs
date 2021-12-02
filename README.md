@@ -1,36 +1,18 @@
-# LAB №1. QuickSort
-<h2>Requirements:</h2>
-<h3>Результат має виводити:</h3>
+# LAB №6. Word Chain
+<h2>Task Description</h2>
 
-●	назва алгоритму
+__My task was to crate an algorithm, wich takes a list of strings and returns one integer - the number of longest possible chain.__ 
 
-●	час роботи
+Chain is the list of words, wich have all letters in common with previos, but one. 
+For example, string -> strin -> stri -> tri -> ri -> i.
 
-●	кількість операцій порівняння, які були виконані в процесі роботи алгоритму
-
-●	кількість операцій обміну, які були виконані в процесі роботи алгоритму
-
-●	результати сортування
-
-●	код має вміти сортувати як за зростанням. так і за спаданням
-
-<h3>Ваш код має бути покритий тестами, які перевіряють:</h3>
-
-●	сортування вхідного масиву
-
-●	сортування за зростанням посортованого масиву  за зростанням
-
-●	сортування за зростанням посортованого масиву  за спаданням
-
-●	сортування за спаданням посортованого масиву  за зростанням
-
-●	сортування за спаданням посортованого масиву  за спаданням
+More detailed description - https://drive.google.com/drive/folders/13IM_clS7GGoFcTmQ2stc70hgMePG_DBf
 
 <h2>How to run</h2>
 
-_To download repository:_ `git clone https://github.com/denysvedernikov02/algo_labs.git -b lab1`
+_To download repository:_ `git clone https://github.com/denysvedernikov02/algo_labs.git -b lab6`
 
-_To run tests:_ `py -m unittest quicksort_test.Test`
+_To run tests:_ `py -m unittest test.Test`
 
 **To run lab:**
 
