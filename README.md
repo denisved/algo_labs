@@ -8,4 +8,15 @@ For example, string -> strin -> stri -> tri -> ri -> i.
 
 More detailed description - https://drive.google.com/drive/folders/13IM_clS7GGoFcTmQ2stc70hgMePG_DBf
 
+<h2>How to run</h2>
+
+_To download repository:_ `git clone https://github.com/denysvedernikov02/algo_labs.git -b lab6`
+
+_To run tests:_ `py -m unittest test.Test`
+
+**To run lab:**
+
+●	`cd algo_labs`
+
+●	`py main.py`
 
