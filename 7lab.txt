@@ -1,0 +1,3 @@
+Wikipedia: The concept of algorithm has existed since antiquity. Arithmetic algorithms, such as a division algorithm, were used by ancient Babylonian mathematicians c. 2500 BC and Egyptian mathematicians c. 
+1550 BC. Greek mathematicians later used algorithms in 240 BC in the sieve of Eratosthenes for finding prime numbers, and the Euclidean algorithm for finding the greatest common divisor of two numbers. 
+Arabic mathematicians such as al-Kindi in the 9th century used cryptographic algorithms for code-breaking, based on frequency analysis
