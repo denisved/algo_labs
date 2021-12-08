@@ -12,7 +12,7 @@ def get_hash(pattern: str) -> int:
     return result
 
 
-def search_patterns_in_text(main_text: str, pattern: str) -> None:
+def search_patterns_in_text(main_text: str, pattern: str) -> int:
     global B, Q
     pattern_len = len(pattern)
     main_text_len = len(main_text)
@@ -34,8 +34,6 @@ def search_patterns_in_text(main_text: str, pattern: str) -> None:
             main_text_hash = ((main_text_hash - ord(main_text[index_symbol]) * multiplier) * B + ord(
                 main_text[index_symbol + pattern_len])) % Q
 
-            if main_text_hash < 0:
-                main_text_hash += Q
     return count
 
 if __name__ == '__main__':
