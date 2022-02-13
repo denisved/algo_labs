@@ -1,7 +1,7 @@
 # LAB №6. Word Chain
 <h2>Task Description</h2>
 
-__My task was to crate an algorithm, wich takes a list of strings and returns one integer - the number of longest possible chain.__ 
+__My task was to crate an algorithm, which takes a list of strings and returns one integer - the number of longest possible chain.__ 
 
 Chain is the list of words, wich have all letters in common with previos, but one. 
 For example, string -> strin -> stri -> tri -> ri -> i.
