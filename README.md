@@ -3,7 +3,7 @@
 
 __My task was to crate an algorithm, which takes a list of strings and returns one integer - the number of longest possible chain.__ 
 
-Chain is the list of words, wich have all letters in common with previos, but one. 
+Chain is the list of words, which have all letters in common with previos, but one. 
 For example, string -> strin -> stri -> tri -> ri -> i.
 
 More detailed description - https://drive.google.com/drive/folders/13IM_clS7GGoFcTmQ2stc70hgMePG_DBf
